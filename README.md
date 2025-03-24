@@ -1,4 +1,4 @@
-# EX.No  Spatial-Descriptions-using-Robo-DK
+# EXPERIMENT-01-Spatial-Descriptions-using-Robo-DK
 ## AIM
 To Simulate the Robot DK software for spatial descriptions
 
@@ -35,6 +35,8 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 Similaly fix target in the given position 
 
 ## Output
+<img width="956" alt="1" src="https://github.com/Gokul-008/EXPERIMENT---02---Spatial-Descriptions-using-Robo-DK/assets/121165996/d387d9f9-f8e3-4081-b886-040c5375afe4">
+
 
 ## Results
 
